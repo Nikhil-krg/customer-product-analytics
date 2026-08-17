@@ -1,6 +1,4 @@
 # Generated data files (rebuilt by running the notebooks)
-data_cleaned.csv
-customer_segments.csv
 
 # Python
 __pycache__/
