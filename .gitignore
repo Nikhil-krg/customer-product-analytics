@@ -1,0 +1,12 @@
+# Generated data files (rebuilt by running the notebooks)
+data_cleaned.csv
+customer_segments.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
